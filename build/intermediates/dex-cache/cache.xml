@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/yaozhilu/Desktop/Yaozhi-countBook/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7ef83bfcba16173e922ed0035dd082eb0ac33042">
+        <dex dex="/Users/yaozhilu/Desktop/Yaozhi-countBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_391e4dc0e4c0272ddd735d76a2d61f1483871d9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yaozhilu/Desktop/Yaozhi-countBook/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/yaozhilu/Desktop/Yaozhi-countBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2047f82b7d22197506be2591590dd94878a4078c/classes.dex" />
+    </item>
+
+</items>
