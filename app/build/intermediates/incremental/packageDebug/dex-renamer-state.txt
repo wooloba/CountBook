@@ -1,0 +1,7 @@
+#Sun Oct 01 17:19:21 MDT 2017
+base.0=/Users/yaozhilu/Desktop/Yaozhi-countBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_391e4dc0e4c0272ddd735d76a2d61f1483871d9c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/yaozhilu/Desktop/Yaozhi-countBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2047f82b7d22197506be2591590dd94878a4078c/classes.dex
+base.1=/Users/yaozhilu/Desktop/Yaozhi-countBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2047f82b7d22197506be2591590dd94878a4078c
+file.0=/Users/yaozhilu/Desktop/Yaozhi-countBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_391e4dc0e4c0272ddd735d76a2d61f1483871d9c/classes.dex
