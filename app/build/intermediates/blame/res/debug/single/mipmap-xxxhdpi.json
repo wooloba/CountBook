@@ -1,10 +1,18 @@
 [
     {
+        "merged": "/Users/yaozhilu/Desktop/cmput 301/Yaozhi-CountBook/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/yaozhilu/Desktop/cmput 301/Yaozhi-CountBook/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/yaozhilu/Desktop/Yaozhi-countBook/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
         "source": "/Users/yaozhilu/Desktop/Yaozhi-countBook/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
         "merged": "/Users/yaozhilu/Desktop/Yaozhi-countBook/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
         "source": "/Users/yaozhilu/Desktop/Yaozhi-countBook/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yaozhilu/Desktop/cmput 301/Yaozhi-CountBook/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/yaozhilu/Desktop/cmput 301/Yaozhi-CountBook/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     }
 ]

@@ -49,7 +49,7 @@ public class addCountActivity extends AppCompatActivity {
     /**
      * check user's input and add information
      */
-    public void checkInput(){
+    private void checkInput(){
 
         /*
         relate Id in xml file to java file

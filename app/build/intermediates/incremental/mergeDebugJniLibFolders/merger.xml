@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/yaozhilu/Desktop/Yaozhi-countBook/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/yaozhilu/Desktop/Yaozhi-countBook/app/src/debug/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/yaozhilu/Desktop/cmput 301/Yaozhi-CountBook/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/yaozhilu/Desktop/cmput 301/Yaozhi-CountBook/app/src/debug/jniLibs"/></dataSet></merger>

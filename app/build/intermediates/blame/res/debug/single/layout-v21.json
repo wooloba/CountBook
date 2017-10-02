@@ -8,7 +8,23 @@
         "source": "/Users/yaozhilu/.android/build-cache/e5f6809deef607a5ec270d9c6da67a440ed10dbd/output/res/layout-v21/notification_action_tombstone.xml"
     },
     {
+        "merged": "/Users/yaozhilu/Desktop/cmput 301/Yaozhi-CountBook/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/yaozhilu/.android/build-cache/e5f6809deef607a5ec270d9c6da67a440ed10dbd/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
         "merged": "/Users/yaozhilu/Desktop/Yaozhi-countBook/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/yaozhilu/.android/build-cache/e5f6809deef607a5ec270d9c6da67a440ed10dbd/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/yaozhilu/Desktop/cmput 301/Yaozhi-CountBook/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/yaozhilu/.android/build-cache/e5f6809deef607a5ec270d9c6da67a440ed10dbd/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/yaozhilu/Desktop/cmput 301/Yaozhi-CountBook/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/yaozhilu/.android/build-cache/e5f6809deef607a5ec270d9c6da67a440ed10dbd/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/yaozhilu/Desktop/cmput 301/Yaozhi-CountBook/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
         "source": "/Users/yaozhilu/.android/build-cache/e5f6809deef607a5ec270d9c6da67a440ed10dbd/output/res/layout-v21/notification_template_icon_group.xml"
     },
     {

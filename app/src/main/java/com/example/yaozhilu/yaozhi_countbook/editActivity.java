@@ -50,7 +50,7 @@ public class editActivity extends AppCompatActivity {
     /**
      * check user's input and update information
      */
-    public void checkEdit(){
+    private void checkEdit(){
 
         /*
         relate Id in xml file to java file

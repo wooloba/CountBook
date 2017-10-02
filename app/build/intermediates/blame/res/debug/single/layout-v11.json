@@ -4,6 +4,10 @@
         "source": "/Users/yaozhilu/.android/build-cache/e5f6809deef607a5ec270d9c6da67a440ed10dbd/output/res/layout-v11/notification_media_cancel_action.xml"
     },
     {
+        "merged": "/Users/yaozhilu/Desktop/cmput 301/Yaozhi-CountBook/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/yaozhilu/.android/build-cache/e5f6809deef607a5ec270d9c6da67a440ed10dbd/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
         "merged": "/Users/yaozhilu/Desktop/Yaozhi-countBook/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
         "source": "/Users/yaozhilu/.android/build-cache/e5f6809deef607a5ec270d9c6da67a440ed10dbd/output/res/layout-v11/notification_template_big_media_custom.xml"
     },
@@ -12,12 +16,32 @@
         "source": "/Users/yaozhilu/.android/build-cache/e5f6809deef607a5ec270d9c6da67a440ed10dbd/output/res/layout-v11/notification_template_big_media.xml"
     },
     {
+        "merged": "/Users/yaozhilu/Desktop/cmput 301/Yaozhi-CountBook/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/yaozhilu/.android/build-cache/e5f6809deef607a5ec270d9c6da67a440ed10dbd/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/yaozhilu/Desktop/cmput 301/Yaozhi-CountBook/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/yaozhilu/.android/build-cache/e5f6809deef607a5ec270d9c6da67a440ed10dbd/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
         "merged": "/Users/yaozhilu/Desktop/Yaozhi-countBook/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
         "source": "/Users/yaozhilu/.android/build-cache/e5f6809deef607a5ec270d9c6da67a440ed10dbd/output/res/layout-v11/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/Users/yaozhilu/Desktop/Yaozhi-countBook/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
         "source": "/Users/yaozhilu/.android/build-cache/e5f6809deef607a5ec270d9c6da67a440ed10dbd/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/yaozhilu/Desktop/cmput 301/Yaozhi-CountBook/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/yaozhilu/.android/build-cache/e5f6809deef607a5ec270d9c6da67a440ed10dbd/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/yaozhilu/Desktop/cmput 301/Yaozhi-CountBook/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/yaozhilu/.android/build-cache/e5f6809deef607a5ec270d9c6da67a440ed10dbd/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/yaozhilu/Desktop/cmput 301/Yaozhi-CountBook/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/yaozhilu/.android/build-cache/e5f6809deef607a5ec270d9c6da67a440ed10dbd/output/res/layout-v11/notification_template_big_media_custom.xml"
     },
     {
         "merged": "/Users/yaozhilu/Desktop/Yaozhi-countBook/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
